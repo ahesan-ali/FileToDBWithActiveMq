@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: swift-mx-adapter
+  cloud:
+    config:
+      enabled: false
+logging:
+  level:
+    root: DEBUG
